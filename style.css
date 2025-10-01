@@ -1,0 +1,23 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Caprasimo&display=swap');
+
+
+h1{
+  font-family: "Caprasimo", serif;
+  color: rgb(13, 77, 42);
+  font-size: 50px;
+  
+}
+
+h2{
+  font-family: "Caprasimo", serif;
+  color: rgb(23, 131, 50);
+  
+}
+h3{
+    background-color: rgb(73, 141, 107);
+    border-radius: 8px; 
+    padding: 16px; 
+    width: 30%;
+        
+}
