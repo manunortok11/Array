@@ -33,7 +33,7 @@ do{
         (alert("Digite algum alimento"))
         almoco.pop()
     }
-    
+     
 }while(a!=null)
     alert(almoco)
     document.write("<ul>")
